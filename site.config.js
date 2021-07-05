@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '7a7405c24d3e45779b90ee621058cdd4',
+  rootNotionPageId: '2b70a918ab13461f8ec31192bc5f66d8',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '吉吉国王',
-  domain: 'https://www.notion.so/7a7405c24d3e45779b90ee621058cdd4',
+  domain: 'https://www.notion.so/2b70a918ab13461f8ec31192bc5f66d8',
   author: 'Big Light',
 
   // open graph metadata (optional)
