@@ -9,7 +9,7 @@ export const GitHubShareButton: React.FC = () => {
       target='_blank'
       rel='noopener noreferrer'
       className={styles.githubCorner}
-      aria-label='View source on GitHub'
+      aria-label='View source on Git Hub'
     >
       <svg
         width='80'
