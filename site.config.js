@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '吉吉国王',
-  domain: 'https://www.notion.so/2b70a918ab13461f8ec31192bc5f66d8',
-  author: 'Big Light',
+  name: 'King Gigi',
+  domain: 'https://www.notion.so/King-Gigi-2b70a918ab13461f8ec31192bc5f66d8',
+  author: 'King Gigi',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: 'biglight-h',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
