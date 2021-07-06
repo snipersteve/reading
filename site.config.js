@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '84c4b85559ce4a049bc71a49ef28e01a',
+  rootNotionPageId: '219a666853ef401fb0ee8610577de963',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'BIG LIGHT',
-  domain: 'https://www.notion.so/BIG-LIGHT-84c4b85559ce4a049bc71a49ef28e01a',
+  domain: 'https://www.notion.so/BIG-LIGHT-219a666853ef401fb0ee8610577de963',
   author: 'BIG LIGHT',
 
   // open graph metadata (optional)
