@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'BIG LIGHT',
-  domain: 'https://www.notion.so/BIG-LIGHT-219a666853ef401fb0ee8610577de963',
+  domain: 'www.notion.so/BIG-LIGHT-219a666853ef401fb0ee8610577de963',
   author: 'BIG LIGHT',
 
   // open graph metadata (optional)
