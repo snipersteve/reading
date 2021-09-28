@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '219a666853ef401fb0ee8610577de963',
+  rootNotionPageId: '1b5af270e7ab4b3d82a98681561ba5b7',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'BIG LIGHT',
-  domain: 'www.biglight.cc',
-  author: 'BIG LIGHT',
+  name: 'SHOW',
+  domain: '',
+  author: '',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: '',
-  github: 'biglight-h',
+  github: 'snipersteve',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
