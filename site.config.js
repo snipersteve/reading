@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'SHOW',
   domain: '',
-  author: '',
+  author: 'SHOW',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: '',
-  github: 'snipersteve',
+  github: '',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
